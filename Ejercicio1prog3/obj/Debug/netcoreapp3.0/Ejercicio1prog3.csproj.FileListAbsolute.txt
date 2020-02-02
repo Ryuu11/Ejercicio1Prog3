@@ -1,0 +1,11 @@
+C:\Users\aramis\source\repos\Ejercicio1prog3\Ejercicio1prog3\bin\Debug\netcoreapp3.0\Ejercicio1prog3.exe
+C:\Users\aramis\source\repos\Ejercicio1prog3\Ejercicio1prog3\bin\Debug\netcoreapp3.0\Ejercicio1prog3.deps.json
+C:\Users\aramis\source\repos\Ejercicio1prog3\Ejercicio1prog3\bin\Debug\netcoreapp3.0\Ejercicio1prog3.runtimeconfig.json
+C:\Users\aramis\source\repos\Ejercicio1prog3\Ejercicio1prog3\bin\Debug\netcoreapp3.0\Ejercicio1prog3.runtimeconfig.dev.json
+C:\Users\aramis\source\repos\Ejercicio1prog3\Ejercicio1prog3\bin\Debug\netcoreapp3.0\Ejercicio1prog3.dll
+C:\Users\aramis\source\repos\Ejercicio1prog3\Ejercicio1prog3\bin\Debug\netcoreapp3.0\Ejercicio1prog3.pdb
+C:\Users\aramis\source\repos\Ejercicio1prog3\Ejercicio1prog3\obj\Debug\netcoreapp3.0\Ejercicio1prog3.csprojAssemblyReference.cache
+C:\Users\aramis\source\repos\Ejercicio1prog3\Ejercicio1prog3\obj\Debug\netcoreapp3.0\Ejercicio1prog3.AssemblyInfoInputs.cache
+C:\Users\aramis\source\repos\Ejercicio1prog3\Ejercicio1prog3\obj\Debug\netcoreapp3.0\Ejercicio1prog3.AssemblyInfo.cs
+C:\Users\aramis\source\repos\Ejercicio1prog3\Ejercicio1prog3\obj\Debug\netcoreapp3.0\Ejercicio1prog3.dll
+C:\Users\aramis\source\repos\Ejercicio1prog3\Ejercicio1prog3\obj\Debug\netcoreapp3.0\Ejercicio1prog3.pdb
